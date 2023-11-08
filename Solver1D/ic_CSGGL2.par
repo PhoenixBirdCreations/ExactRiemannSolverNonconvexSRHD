@@ -1,0 +1,22 @@
+#Initial conditions (double rho_L, v_L, P_L, rho_R, v_R, P_R)
+0.05
+0.999
+0.05
+0.05
+-0.999
+0.05
+
+#Guess goals of pressure and density (double goalP_L, goalRho_L, goalP_R, goalRho_R)
+300
+20
+300
+20
+
+#Final time for the exact solution
+0.4
+
+#Name of the file to save the exact solution into
+csggl2.txt
+
+#Name of the file to save the wave curves into
+csggl2_wc.txt
